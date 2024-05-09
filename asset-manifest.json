@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ReactWeb/static/css/main.fd05f465.css",
-    "main.js": "/ReactWeb/static/js/main.c4422929.js",
+    "main.css": "/ReactWeb/static/css/main.61d1073a.css",
+    "main.js": "/ReactWeb/static/js/main.a2ada2b7.js",
     "static/js/453.26329329.chunk.js": "/ReactWeb/static/js/453.26329329.chunk.js",
     "static/media/raj.jpg": "/ReactWeb/static/media/raj.45ca5b81d4da04af2d96.jpg",
     "static/media/kumar.jpg": "/ReactWeb/static/media/kumar.b99db3205d213c41c5f7.jpg",
@@ -21,12 +21,12 @@
     "static/media/doctor.svg": "/ReactWeb/static/media/doctor.6e505288d13ce528bfd8aba857a9da45.svg",
     "static/media/html.svg": "/ReactWeb/static/media/html.23f1c9f518bcd7264ffb5d4d128ecc7a.svg",
     "index.html": "/ReactWeb/index.html",
-    "main.fd05f465.css.map": "/ReactWeb/static/css/main.fd05f465.css.map",
-    "main.c4422929.js.map": "/ReactWeb/static/js/main.c4422929.js.map",
+    "main.61d1073a.css.map": "/ReactWeb/static/css/main.61d1073a.css.map",
+    "main.a2ada2b7.js.map": "/ReactWeb/static/js/main.a2ada2b7.js.map",
     "453.26329329.chunk.js.map": "/ReactWeb/static/js/453.26329329.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd05f465.css",
-    "static/js/main.c4422929.js"
+    "static/css/main.61d1073a.css",
+    "static/js/main.a2ada2b7.js"
   ]
 }
